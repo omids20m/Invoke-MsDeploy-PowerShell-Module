@@ -51,3 +51,7 @@ Executes the MSDeploy.exe tool. Returns true if the deploy succeeded, false if t
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/omids20m/invoke-msbuild-powershell-module/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/omids20m/invoke-msdeploy-powershell-module/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
